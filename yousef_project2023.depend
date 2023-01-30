@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1674995314 source:e:\c-programs\yousef_project2023\exit_and_return_to_the_main_page.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	"structs.h"
+
+1675107223 e:\c-programs\yousef_project2023\structs.h
+
+1675106564 source:e:\c-programs\yousef_project2023\login.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	"structs.h"
+
+1675106560 source:e:\c-programs\yousef_project2023\main.c
+	<stdio.h>
+	<stdlib.h>
+	"structs.h"
+
+1675086905 source:e:\c-programs\yousef_project2023\main_menu.c
+	<stdio.h>
+	<stdlib.h>
+	"structs.h"
+
+1675091630 source:e:\c-programs\yousef_project2023\main_page_signup_login.c
+	<stdio.h>
+	<stdlib.h>
+	"structs.h"
+
+1675106318 source:e:\c-programs\yousef_project2023\edit_accounts_information.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	"structs.h"
+
+1675102972 source:e:\c-programs\yousef_project2023\sign_up.c
+	<stdio.h>
+	<string.h>
+	"structs.h"
+
+1675106773 source:e:\c-programs\yousef_project2023\taking_information_from_files_into_linked_lists.c
+	<stdio.h>
+	<stdlib.h>
+	"structs.h"
+
+1675001891 source:e:\c-programs\yousef_project2023\enter_a_new_products.c
+	<stdio.h>
+	<string.h>
+	"structs.h"
+
+1675107498 source:e:\c-programs\yousef_project2023\entry_and_exit_operations_from_the_warehouse.c
+	<stdio.h>
+	<string.h>
+	"structs.h"
+
+1674928177 source:e:\c-programs\yousef_project2023\functions_abo_hassan.c
+
+1675099873 source:e:\c-programs\yousef_project2023\reports_page.c
+	<stdio.h>
+	<stdlib.h>
+	"structs.h"
+
